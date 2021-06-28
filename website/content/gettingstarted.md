@@ -5,4 +5,6 @@ title: "Getting Started"
 
 # Install
 
-This is how you would install
+This is how you would install.
+
+Probably something simple like `GO111MODULE=on go get -u github.com/grafana/grizzly/cmd/grr`
